@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SlackJack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SlackJack.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
